@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="txtAdd">Add item</string>
+    <string name="btnSave">Save</string>
+    <string name="hintAdd">Add an item to shopping list</string>
+    <string name="btnDone">Done</string>
+    <string name="tvItems">Items</string>
+    <string name="btnClose">Close</string>
+    <string name="add_item">Add Item</string>
+    <string name="btnShowList">Show List</string>
+    <string name="item_name_hint">Item Name</string>
+    <string name="item_count_hint">Item Count</string>
+</resources>
