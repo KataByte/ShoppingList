@@ -6,6 +6,7 @@ This is a simple Android application for managing shopping lists. Users can add 
 
 - Add items to the shopping list.
 - Mark items as done when shopping is complete.
+- Remove items from the shopping list.
 - View the complete list of items.
 
 ## Screenshots
